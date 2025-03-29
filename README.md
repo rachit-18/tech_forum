@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # tech_forum
 
-The main code is available in master branch.
-=======
 To set up this project localy follow these steps:
 
 1) Clone the repo
@@ -17,5 +15,5 @@ To set up this project localy follow these steps:
 10) run "php -S localhost:8000 -t public" or "php artisan serve"
 11) visit your site at "http://localhost:8000" in your browser.
 
-~Rajat Malhotra
+~Rachit Pal
 >>>>>>> 15ac4bb70030762c2d73cf347fbc452122021aed
